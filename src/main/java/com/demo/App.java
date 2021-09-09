@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello Tufail Ahmed, How r u today" );
     }
+    public void printMessage() {
+    	System.out.println("Good mroning team");
+    }
 }

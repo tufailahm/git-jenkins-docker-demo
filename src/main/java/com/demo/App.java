@@ -13,4 +13,7 @@ public class App
     public void printMessage() {
     	System.out.println("Good mroning team");
     }
+    public int sum(int num1,int num2) {
+    	return num1-num2;
+    }
 }
